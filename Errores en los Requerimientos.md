@@ -1,6 +1,6 @@
 # El Impacto de los Errores en los Requerimientos: Un Análisis en la Ingeniería de Requerimientos
 
-![output.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dc2f2563-d1fb-4cb6-8493-cac3a5aa0bf1/output.png)
+![ErroresRequerimientos.png](./images/ErroresRequerimientos.png)
 
 ## Introducción
 
