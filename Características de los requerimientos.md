@@ -1,3 +1,6 @@
+---
+title: Características de los requerimientos
+---
 # Características de los requerimientos
 
 Los requerimientos en la ingeniería de software son las descripciones de lo que un sistema debe hacer o las cualidades que debe tener. Los requerimientos pueden ser funcionales, describiendo las funciones que el sistema debe realizar, o no funcionales, describiendo las propiedades que el sistema debe tener. Independientemente del tipo, los buenos requerimientos comparten ciertas características clave:
