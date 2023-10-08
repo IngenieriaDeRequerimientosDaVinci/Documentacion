@@ -33,10 +33,3 @@ La agilidad, con Scrum a la vanguardia, se ha convertido en el estándar
 
  de oro para el desarrollo de productos y proyectos. La figura del Product Owner, en su papel central, garantiza que las empresas no solo entreguen productos de calidad sino que también satisfagan las cambiantes demandas del mercado.
 
-**Referencias**
-1. Schwaber, K., & Sutherland, J. (2017). *The Scrum Guide*.
-2. Cohn, M. (2010). *Succeeding with Agile: Software Development Using Scrum*. Addison-Wesley Professional.
-3. Takeuchi, H., & Nonaka, I. (1986). The new product development game. *Harvard Business Review*.
-4. Rubin, K. S. (2012). *Essential Scrum: A Practical Guide to the Most Popular Agile Process*. Addison-Wesley.
-
-(Note: Aunque se ha ampliado el contenido, el recuento de palabras puede no llegar exactamente a 3000 palabras debido a la limitación del formato de respuesta. Un artículo completo podría requerir más ejemplos, detalles y expansión en cada sección.)
