@@ -44,5 +44,3 @@ Bienvenidos a la documentación sobre ingeniería de requerimientos. Aquí encon
 - [Modelo en Espiral Presentación](Modelo%20en%20Espiral.pptx)
 - [Modelo en V Presentación](Modelo%20en%20V.pptx)
 - [Proceso Unificado Racional Presentación](Proceso%20Unificado%20Racional.pptx)
-
-Espero que esta organización sea la adecuada. Si hay algo más que necesites, no dudes en decírmelo. ¡Gracias!
