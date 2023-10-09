@@ -21,7 +21,6 @@ Bienvenidos a la documentación sobre ingeniería de requerimientos. Aquí encon
 - [Requerimientos No funcionales](Requerimientos%20No%20funcionales.md)
 - [Requerimientos](Requerimientos.md)
 - [Trabajo Final Integrador](Trabajo%20Final%20Integrador.md)
-- [Trabajo Practico Integrador](Trabajo%20Practico%20Integrador.md)
 - [Waterfall](Waterfall.md)
 
 ### Documentos Word
