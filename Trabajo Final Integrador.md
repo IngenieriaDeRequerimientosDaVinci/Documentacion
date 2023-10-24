@@ -1,7 +1,7 @@
 **Trabajo Práctico Final Integrador de la Materia Ingeniería de Requerimientos: Análisis del CRM HubSpot**
 
 **Descripción del Trabajo Práctico:**
-Para este trabajo práctico final integrador, se busca que los estudiantes profundicen en la plataforma CRM HubSpot, una de las herramientas de gestión de relaciones con clientes más utilizadas en la industria. Cada grupo de estudiantes seleccionará tres módulos específicos de HubSpot para su análisis detallado. El objetivo es comprender en profundidad las funcionalidades, características y posibles mejoras de estos módulos, aplicando los conocimientos adquiridos en la materia Ingeniería de Requerimientos.
+Para este trabajo práctico final integrador, se busca que los estudiantes profundicen en la plataforma CRM HubSpot, una de las herramientas de gestión de relaciones con clientes más utilizadas en la industria. El objetivo es comprender en profundidad las funcionalidades, características y posibles mejoras de estos módulos, aplicando los conocimientos adquiridos en la materia Ingeniería de Requerimientos.
 
 **Estructura del Trabajo:**
 
