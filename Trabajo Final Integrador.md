@@ -37,7 +37,7 @@ Para este trabajo práctico final integrador, se busca que los estudiantes profu
 
 El informe resultante debe ser presentado de manera clara y estructurada, facilitando su lectura y comprensión. Es esencial que se apliquen los conceptos aprendidos durante el curso y se realice un análisis crítico y constructivo de los módulos de HubSpot seleccionados.
 
-** Areas a ser analizadas **
+**Areas a ser analizadas**
 ### 1. **Gestión de Contactos y Empresas**:
 - **Requerimientos**: Los estudiantes deberían especificar cómo el sistema va a almacenar, recuperar, y actualizar la información de los contactos y empresas. Esto podría incluir campos específicos, como nombre, correo electrónico, número de teléfono, etc.
 - **Funcionalidades Adicionales**: Búsqueda y filtrado de contactos, importación/exportación de datos.
