@@ -36,3 +36,25 @@ Para este trabajo práctico final integrador, se busca que los estudiantes profu
    - Desarrollar representaciones gráficas detalladas y precisas de las interfaces de usuario para cada módulo, utilizando herramientas profesionales de diseño.
 
 El informe resultante debe ser presentado de manera clara y estructurada, facilitando su lectura y comprensión. Es esencial que se apliquen los conceptos aprendidos durante el curso y se realice un análisis crítico y constructivo de los módulos de HubSpot seleccionados.
+
+** Areas a ser analizadas **
+### 1. **Gestión de Contactos y Empresas**:
+- **Requerimientos**: Los estudiantes deberían especificar cómo el sistema va a almacenar, recuperar, y actualizar la información de los contactos y empresas. Esto podría incluir campos específicos, como nombre, correo electrónico, número de teléfono, etc.
+- **Funcionalidades Adicionales**: Búsqueda y filtrado de contactos, importación/exportación de datos.
+
+### 2. **Gestión de Negocios (Oportunidades de Venta)**:
+- **Requerimientos**: Especificar cómo se crean, gestionan y dan seguimiento a las oportunidades de venta. Esto podría incluir la definición de diferentes etapas del embudo de ventas y la asignación de tareas relacionadas.
+- **Funcionalidades Adicionales**: Establecer recordatorios, agregar notas o documentos relacionados a cada oportunidad de venta.
+
+### 3. **Tareas y Actividades**:
+- **Requerimientos**: Describir cómo se programarán, asignarán y realizarán seguimientos a las tareas y actividades.
+- **Funcionalidades Adicionales**: Notificaciones, integración con calendarios.
+
+### 4. **Informes Básicos**:
+- **Requerimientos**: Definir qué tipo de informes y análisis estarán disponibles, por ejemplo, rendimiento de ventas, actividades completadas, etc.
+- **Funcionalidades Adicionales**: Personalización de informes, exportación de datos.
+
+### 5. **Seguridad y Privacidad**:
+- **Requerimientos**: Especificar cómo se protegerán los datos del usuario y cómo se gestionará el acceso a diferentes partes del sistema.
+- **Funcionalidades Adicionales**: Autenticación de dos factores, registros de auditoría.
+
