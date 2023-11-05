@@ -43,11 +43,12 @@ El informe resultante debe ser presentado de manera clara y estructurada, facili
 - **Funcionalidades Adicionales**: Búsqueda y filtrado de contactos, importación/exportación de datos.
 
 ### 2. **Gestión de Negocios (Oportunidades de Venta)**:
-- **Requerimientos**: Especificar cómo se crean, gestionan y dan seguimiento a las oportunidades de venta. Esto podría incluir la definición de diferentes etapas del embudo de ventas y la asignación de tareas relacionadas.
+- **Requerimientos**: Especificar cómo se crean, gestionan y dan seguimiento a las oportunidades de venta. Esto podría incluir la definición de diferentes etapas del embudo de ventas y la asignación de tareas relacionadas. Menu ventas, submenu Negocios.
+
 - **Funcionalidades Adicionales**: Establecer recordatorios, agregar notas o documentos relacionados a cada oportunidad de venta.
 
 ### 3. **Tareas y Actividades**:
-- **Requerimientos**: Describir cómo se programarán, asignarán y realizarán seguimientos a las tareas y actividades.
+- **Requerimientos**: Describir cómo se programarán, asignarán y realizarán seguimientos a las tareas y actividades. Menu ventas, submenu Tareas.
 - **Funcionalidades Adicionales**: Notificaciones, integración con calendarios.
 
 ### 4. **Informes Básicos**:
